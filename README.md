@@ -4,7 +4,7 @@
 A Machine Learning web app that predicts whether a donor will donate again to NayePankh Foundation based on their engagement profile.
 
 ## Live Demo
-[Click here to view the live app](YOUR_STREAMLIT_LINK_HERE)
+[Click here to view the live app](https://nayepankh-ml-internship-6iqfsom7nmzwkv8e8g9xud.streamlit.app)
 
 ## ML Models Used
 - Logistic Regression — 78.3% accuracy
