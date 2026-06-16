@@ -6,4 +6,3 @@ xgboost
 matplotlib
 seaborn
 plotly
-pickle5
